@@ -1,4 +1,4 @@
 const pirateRouter = require('../');
 
-describe("correct-filename", function() {
+describe("correct-router", function() {
 });
