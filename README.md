@@ -6,6 +6,7 @@
 [![depsci][depsci]][depsci-url]
 [![travis][travis]][travis-url]
 [![appveyor][appveyor]][appveyor-url]
+[![greenkeeper][greenkeeper]][greenkeeper-url]
 
 
 ## ☠ There's nothing for you here yet. ☠
@@ -37,3 +38,6 @@
 [depsci-url]: https://dependencyci.com/github/adriancmiranda/pirate-router
 
 [license-url]: https://github.com/adriancmiranda/pirate-router/blob/master/LICENSE
+
+[greenkeeper]: https://badges.greenkeeper.io/adriancmiranda/pirate-router.svg
+[greenkeeper-url]: https://greenkeeper.io/
