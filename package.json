@@ -21,7 +21,7 @@
     "husky": "^0.13.3",
     "mocha": "3.4.2",
     "npm-check-updates": "^2.11.0",
-    "validate-commit-msg": "^2.12.1"
+    "validate-commit-msg": "^2.13.1"
   },
   "config": {
     "validate-commit-msg": {
