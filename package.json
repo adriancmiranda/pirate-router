@@ -19,7 +19,7 @@
   "devDependencies": {
     "conventional-commit-types": "^2.1.0",
     "husky": "^0.13.3",
-    "mocha": "3.4.2",
+    "mocha": "6.2.1",
     "npm-check-updates": "^2.11.0",
     "validate-commit-msg": "^2.12.1"
   },
