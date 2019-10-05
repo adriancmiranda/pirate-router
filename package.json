@@ -17,7 +17,7 @@
     "commitmsg": "validate-commit-msg"
   },
   "devDependencies": {
-    "conventional-commit-types": "^2.1.0",
+    "conventional-commit-types": "^2.3.0",
     "husky": "^0.13.3",
     "mocha": "3.4.2",
     "npm-check-updates": "^2.11.0",
